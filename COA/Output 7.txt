@@ -1,0 +1,2 @@
+Output:
+FACTORIAL IS :- 0018
